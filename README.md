@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thkratzer&label=Profile%20views&color=0e75b6&style=flat" alt="thkratzer" /> </p>
 
-- 🔭 I’m currently working with my team on a part of the core application for the german federal labor agency **
+- 🔭 I’m currently working with my team on a part of the core application for the german federal labor agency
 
 - 👨‍💻 All of my personal projects are available at [thkratzer.github.io](thkratzer.github.io)
 
